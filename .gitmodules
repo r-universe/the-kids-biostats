@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/the-kids-biostats/the-kids-biostats.r-universe.dev
 	branch = HEAD
+[submodule "thekidsbiostats"]
+	path = thekidsbiostats
+	url = https://github.com/The-Kids-Biostats/thekidsbiostats
