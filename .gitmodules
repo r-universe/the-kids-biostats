@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/the-kids-biostats/the-kids-biostats.r-universe.dev
 	branch = HEAD
+[submodule "WAACHShelp"]
+	path = WAACHShelp
+	url = https://github.com/The-Kids-Biostats/WAACHShelp
 [submodule "thekidsbiostats"]
 	path = thekidsbiostats
 	url = https://github.com/The-Kids-Biostats/thekidsbiostats
